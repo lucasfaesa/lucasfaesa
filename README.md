@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
-
-👾 Currently learning Godot Engine
-
-📫 Reach me at: lucasriosoliveira@proton.me
+- 🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
+- 👾 Currently learning Godot Engine
+- 📫 Reach me at: lucasriosoliveira@proton.me
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact)
 
