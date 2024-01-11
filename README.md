@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="images/dev.png" width="300"/>
+
 - 🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
 - 👾 Currently learning Godot Engine
 - 📫 Reach me at: lucasriosoliveira@proton.me
