@@ -7,7 +7,7 @@
 
 - 🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
 - 👾 Currently trying Godot Engine and Bevy Engine
-- 📫 Reach me at: lucasriosoliveira@proton.me
+- 📫 Reach me at: lucasriosoliveira@proton.me</br></br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=calm)
