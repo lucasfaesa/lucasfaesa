@@ -5,7 +5,7 @@
 - 📫 Reach me at: lucasriosoliveira@proton.me
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=discord_old_blurple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=ambient_gradient)
 
 [Code::Stats](https://codestats.net/users/lukeibol)
 <!--
