@@ -2,11 +2,11 @@
 
 🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
 👾 Currently learning Godot Engine
+📫 Reach me at: lucasriosoliveira@proton.me
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact)
 
 [Code::Stats](https://codestats.net/users/lukeibol)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **lucasfaesa/lucasfaesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
