@@ -5,7 +5,7 @@
 <img align="right" src="dev.png" width="300"/>
 
 - 🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
-- 👾 Currently learning Godot Engine
+- 👾 Currently learning Godot Engine and Rust Lang 🦀
 - 📫 Reach me at: lucasriosoliveira@proton.me
 
 
