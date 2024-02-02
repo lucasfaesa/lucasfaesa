@@ -6,7 +6,6 @@
 <img align="right" src="dev.png" width="300"/>
 
 - 🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
-- 👾 Currently trying Godot Engine and Bevy Engine
 - 📫 Reach me at: lucasriosoliveira@proton.me</br></br>
 
 
