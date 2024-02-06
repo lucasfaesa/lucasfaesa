@@ -5,9 +5,9 @@
 
 <img align="right" src="dev.png" width="300"/>
 
-- 🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
+- 🎮 Game Programmer at: [Inside Tecnologia](https://insidetecnologia.com/)
 - 📫 Reach me at: lucasriosoliveira@proton.me
-- 💻 [Code::Stats](https://codestats.net/users/lukeibol)
+- 💻 My stats at: [Code::Stats](https://codestats.net/users/lukeibol)
 
 </br></br>
 
