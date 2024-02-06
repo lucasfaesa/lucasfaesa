@@ -6,7 +6,9 @@
 <img align="right" src="dev.png" width="300"/>
 
 - 🎮 Game Programmer at [Inside Tecnologia](https://insidetecnologia.com/)
-- 📫 Reach me at: lucasriosoliveira@proton.me</br></br>
+- 📫 Reach me at: lucasriosoliveira@proton.me
 - 💻 [Code::Stats](https://codestats.net/users/lukeibol)
+
+</br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=calm)
