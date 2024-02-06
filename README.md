@@ -9,6 +9,6 @@
 - 📫 Reach me at: lucasriosoliveira@proton.me
 - 💻 My stats at: [Code::Stats](https://codestats.net/users/lukeibol)
 
-</br></br>
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=calm)
