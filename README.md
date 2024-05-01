@@ -10,4 +10,4 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=calm&hide=javascript)
