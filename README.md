@@ -12,4 +12,4 @@
 
 ![Top Langs](https://github-readme-stats-lydo-lucas-projects-a6f40264.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=calm&exclude_repo=InfiniteFlyerHTML5_Godot,3dMinigolfHTML5_Godot,JungleJumpHTML5-Godot,GreedyFoxHTML5-Godot,AsteroidsHTML5-Godot,Robotim,Dashboard_BetaBuilds&hide=HLSL,ShaderLab,Mathematica,GLSL)
 
-![Harlok's WakaTime stats](https://github-readme-stats-lydo-lucas-projects-a6f40264.vercel.app/api/wakatime?username=lucasfaesa&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats-lydo-lucas-projects-a6f40264.vercel.app/api/wakatime?username=lucasfaesa&layout=compact&theme=calm)
