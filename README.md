@@ -6,7 +6,6 @@
 
 - 🎮 Game Programmer
 - 📫 Reach me at: lucasriosoliveira@proton.me
-- 💻 My stats at: [Code::Stats](https://codestats.net/users/lukeibol)
 
 </br>
 
