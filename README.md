@@ -5,7 +5,7 @@
 <img align="right" src="dev.png" width="300"/>
 
 - 🎮 Game Programmer
-- 📫 Reach me at: lucasriosoliveira@proton.me
+- 📫 Reach me at: lucasfaesa@gmail.com
 
 </br>
 
