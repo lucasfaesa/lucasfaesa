@@ -11,4 +11,4 @@
 
 ![Top Langs](https://github-readme-stats-lydo-lucas-projects-a6f40264.vercel.app/api/top-langs/?username=lucasfaesa&layout=compact&theme=calm&custom_title=Language%20Usage%20Across%20My%20Repos&exclude_repo=CoinDash-LOVE2D-Web,InfiniteFlyerHTML5_Godot,3dMinigolfHTML5_Godot,JungleJumpHTML5-Godot,GreedyFoxHTML5-Godot,AsteroidsHTML5-Godot,Robotim,Dashboard_BetaBuilds&hide=HLSL,ShaderLab,Mathematica,GLSL,Javascript,uplugin,JSON)
 
-![Harlok's WakaTime stats](https://github-readme-stats-lydo-lucas-projects-a6f40264.vercel.app/api/wakatime?username=lucasfaesa&layout=compact&theme=calm&display_format=percent&custom_title=Recent%20Language%20Activity&hide=HLSL,Other,Text,Binary,Objective-C,XML,Blender,Markdown,JSON,UnityYaml,Gitignore%20file,Objective-C++,uplugin,Csproj,Shaderlab,TypeScript,Python)
+![Harlok's WakaTime stats](https://github-readme-stats-lydo-lucas-projects-a6f40264.vercel.app/api/wakatime?username=lucasfaesa&layout=compact&theme=calm&langs_count=6&display_format=percent&custom_title=Recent%20Language%20Activity)
